@@ -1,6 +1,6 @@
 <div class="services">
 		<div class="service_wrapper">
-			<blocks cols="3">
+			<blocks cols="2">
 				<div class="service_item load">
 				<i class="fa fa-angle-right recode" aria-hidden="true"><span class="blink">_</span></i>
 					<h3>
