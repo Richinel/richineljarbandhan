@@ -7,7 +7,7 @@
 						<h2>Who am I?</h2>
 
 						<p>
-							My name is Richinel Jarbandhan. I'm 22 years old and I am currently following the course of "Application Developer" at Albeda College in Rotterdam, The Netherlands.
+							My name is Richinel Jarbandhan. I'm 23 years old and I am currently following the course of "Application Developer" at Albeda College in Rotterdam, The Netherlands.
 						</p>
 
 						<button>
