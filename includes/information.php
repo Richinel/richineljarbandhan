@@ -27,7 +27,7 @@
 						<div class="info_content">
 							<span class="vars">var</span> firstName = <span class="string">"Richinel"</span>; <br>
 							<span class="vars">var</span> lastName = <span class="string">"Jarbandhan"</span>; <br>
-							<span class="vars">var</span> age = <span class="integer">22</span>; <br>
+							<span class="vars">var</span> age = <span class="integer">23</span>; <br>
 							<span class="vars">var</span> hobbies = [<span class="string">"Programming", "Fitness", "Football"</span>]; <br>
 						</div>
 					</div>

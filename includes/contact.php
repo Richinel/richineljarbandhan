@@ -21,22 +21,22 @@
 					<form action="mail_function.php" method="post">
 						<row around>
 							<column cols="6">
-								<input type="text" name="nameperson" placeholder="Your name">
+								<input type="text" name="nameperson" placeholder="Your name" required="Please fill in your name">
 							</column>
 							<column cols="6">
-								<input type="text" name="namemail" placeholder="Your e-mailadress">
+								<input type="text" name="namemail" placeholder="Your e-mailadress" required>
 							</column>
 						</row>
 
 						<row around>
 							<column cols="12">
-								<input type="text" name="subject" placeholder="Subject">
+								<input type="text" name="subject" placeholder="Subject" required="Please fill in the subject">
 							</column>
 						</row>
 
 						<row around>
 							<column cols="12">
-								<textarea name="message" placeholder="Your message"></textarea>
+								<textarea name="message" placeholder="Your message" required="Can't send a form without a message!"></textarea>
 							</column>
 						</row>
 
