@@ -16,7 +16,7 @@
 					<h3><i class="fa fa-user" aria-hidden="true"></i> Personal</h3>
 
 					<p>
-						My name is Richinel Jarbandhan and I am a 22-year-old student. At the moment I am following the course of “Application Developer” at Albeda College in Rotterdam, the Netherlands. I chose this course because I have been into computers pretty much my entire life. Since I was a child I was interested in computers and everything that had to do with them. 
+						My name is Richinel Jarbandhan and I am a 23-year-old student. At the moment I am following the course of “Application Developer” at Albeda College in Rotterdam, the Netherlands. I chose this course because I have been into computers pretty much my entire life. Since I was a child I was interested in computers and everything that had to do with them. 
 					</p>
 
 					<a href="files/cvrj.pdf" target="_blank">
