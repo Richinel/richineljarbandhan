@@ -8,6 +8,8 @@
 
 	<?php include('includes/services.php');?>
 
+	<hr class="index_divider">
+
 	<?php include('includes/information.php');?>
 
 	<?php include('includes/contact.php');?>

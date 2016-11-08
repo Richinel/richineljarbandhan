@@ -17,12 +17,32 @@
 
 			<blocks cols="4">
 
+				<div class="project_item load">
+					<div class="project_content">
+						<h3>Encaasa Bewindvoering</h3>
+							<hr>
+						<strong>Description</strong><br>
+						<p>
+							This project was given to me by an acquantaince. She runs her own administration office and she wanted a complete redesign of her website.
+						</p>
+
+						<p>
+							<strong>Status</strong><br>
+							This project will be available <strong>soon!</strong>
+						</p>
+					</div>
+
+					<div class="btn">
+						Available shortly
+					</div>
+				</div>
+
 				<div class="project_item_wip load">
 					<div class="project_content">
 						<h3>New project</h3>
 							<hr>
 						<p>
-							Projects coming soon!
+							More projects coming soon!
 						</p>
 
 						<p>
@@ -32,7 +52,7 @@
 					</div>
 
 					<div class="btn">
-						Coming soon
+						??
 					</div>
 				</div>
 
